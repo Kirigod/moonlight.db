@@ -1,0 +1,31 @@
+{
+  "name": "moonlight.db",
+  "version": "1.0.1",
+  "description": "MoonlightDB is a lightweight local database with no dependencies and easy to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kirigod/moonlight.db.git"
+  },
+  "keywords": [
+    "db",
+    "easy-to-use",
+    "localstorage",
+    "lightweight",
+    "database",
+    "local",
+    "storage",
+    "node-storage",
+    "moonlight.db",
+    "node"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}

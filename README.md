@@ -2,7 +2,7 @@
   <br>
   <h1>moonlight.db</h1>
   <p>
-    <a href="https://www.npmjs.com/package/moonlight.db"><img src="https://nodei.co/npm/moonlight.db.png" alt="npm installnfo"/></a>
+    <a href="https://www.npmjs.com/package/moonlight.db"><img src="https://nodei.co/npm/moonlight.db.png?mini=true" alt="npm installnfo"/></a>
   </p>
 </div>
 
